@@ -1,0 +1,25 @@
+{
+  "name": "used-phones-landing-page-tailwind-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamshahidameen/used-phones-landing-page-tailwind-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamshahidameen/used-phones-landing-page-tailwind-css/issues"
+  },
+  "homepage": "https://github.com/iamshahidameen/used-phones-landing-page-tailwind-css#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.0.2"
+  }
+}
